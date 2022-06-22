@@ -1,0 +1,8 @@
+{
+    "name": "RzaCircuitsimulator",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Maxim Eltratov <<Maxim.Eltratov@ya.ru>>",
+    "contributors": [],
+    "dependencies": {}
+}
